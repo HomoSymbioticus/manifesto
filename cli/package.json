@@ -1,0 +1,15 @@
+{
+  "name": "homo-symbioticus",
+  "version": "0.1.0",
+  "description": "CLI simbiótica del manifiesto Homo Symbioticus",
+  "bin": {
+    "homo-symbioticus": "./index.js"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["simbiosis", "cli", "manifiesto", "posthumano"],
+  "author": "co-creado por humanos e IAs",
+  "license": "CC0"
+}
